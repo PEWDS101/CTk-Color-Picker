@@ -57,6 +57,7 @@ CTk-Color-Picker/
 └── requirements.txt
 ```
 
+
 ## ▶️ Run the Application
 ```bash
 python main.py
